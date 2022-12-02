@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME':'clinicalsdb',
         'USER':'root',
-        'PASSWORD':'Murli@1994'
+        'PASSWORD':'root'
     }
 }
 # Password validation
